@@ -1,0 +1,7 @@
+@charset "utf-8";
+footer {
+  background-color: #000000; /* または background-color: black; */
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
